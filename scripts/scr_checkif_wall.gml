@@ -1,3 +1,5 @@
+//checks for collision
+
 //left
 if (place_meeting (x - 4, y, par_all_walls))    {wall_on_left = true;}
 else wall_on_left = false;
