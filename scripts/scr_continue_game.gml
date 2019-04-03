@@ -1,3 +1,4 @@
+//updates room that player should be sent to when they hit continue
 continueroom = 0;
 var w;
 for (w = 0; w < array_length_1d(global.unlocks); w += 1)
