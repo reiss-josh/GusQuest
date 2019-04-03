@@ -1,3 +1,5 @@
+//script for win screen
+
 switch(mpos)
 {
     case 0:
