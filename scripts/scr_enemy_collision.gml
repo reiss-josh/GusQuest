@@ -1,3 +1,5 @@
+//name is self-descriptive
+
 //gravity
 if(vsp < 10) vsp += grav;
 
