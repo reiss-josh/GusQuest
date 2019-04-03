@@ -1,3 +1,5 @@
+//script for a mob that flies around idly
+
 //every 2 seconds, chance of changing vdir. increases chance every time failed.
 //every 4 seconds, chance of changing hdir. increases chance every time failed.
 var randomizer = random(1);
