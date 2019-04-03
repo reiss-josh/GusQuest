@@ -1,3 +1,5 @@
+//alternate "main()" for when player is in a special state (dying, picking things up)
+
 //apply friction
 hsp -= (sign(hsp) * frctn)
 if(hsp > 0) && (hsp < (frctn * 2)) hsp = 0;
