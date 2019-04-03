@@ -1,3 +1,5 @@
+//script for making a mob jump when very close to player
+
 if(distance_to_object(obj_player) != 0)
 {
     if(distance_to_object(obj_player) < 32) && (colliding = true)
